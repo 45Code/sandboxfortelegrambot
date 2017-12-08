@@ -1,0 +1,8 @@
+{
+  "name": "Telegram_Bot#1",
+  "version": "0.0.1",
+  "description": "Песочница для набивания \"шишек\" при разработки ботов для телеги на node.js",
+  "dependencies": {
+    "node-telegram-bot-api": "^0.29.0"
+  }
+}
